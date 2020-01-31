@@ -255,7 +255,7 @@ Preference will be given to members of the Rutgers-Camden community, but subject
 <h2 id="syllabus">Syllabus</h2>
 
 {% if page.carpentry == "swc" %}
-  {% include sc/syllabus.html %}
+  {% include scw/syllabus.html %}
 {% elsif page.carpentry == "dc" %}
   {% include dc/syllabus.html %}
 {% elsif page.carpentry == "lc" %}
