@@ -56,7 +56,7 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
   the pitch.
 {% endcomment %}
 {% if page.carpentry == "swc" %}
-  {% include sc/intro.html %}
+  {% include scw/intro.html %}
 {% elsif page.carpentry == "dc" %}
   {% include dc/intro.html %}
 {% elsif page.carpentry == "lc" %}
