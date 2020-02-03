@@ -1,11 +1,11 @@
 ---
 layout: workshop      # DON'T CHANGE THIS.
 venue: "Joint Health Sciences Center"        # brief name of host site without address (e.g., "Euphoric State University")
-address: "201 Federal St., Camden, NJ 08035"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria")
+address: "201 South Broadway, Camden, NJ 08103"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria")
 country: "us"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1#Current_codes)
 language: "en"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes)
-latitude: "45"     # decimal latitude of workshop venue (use https://www.latlong.net/)
-longitude: "-1"    # decimal longitude of the workshop venue (use https://www.latlong.net)
+latitude: "39.942516"     # decimal latitude of workshop venue (use https://www.latlong.net/)
+longitude: "-75.119521"    # decimal longitude of the workshop venue (use https://www.latlong.net)
 humandate: "Mar 13-14, 2020"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
 humantime: "9:00 am - 4:30 pm"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
 startdate: 2020-03-13      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
@@ -190,6 +190,10 @@ Display the contact email address set in the configuration file.
   to-be-announced
   {% endif %}
   for more information.
+</p>
+
+<p id="registration">
+<strong>Registration:</strong>  We kindly ask that interested participants <a href="https://forms.gle/z7kr2t2PcQbmmnci6">register</a> by October 9, 2019. Complimentary coffee, snacks, and lunch will be available for registered participants during the scheduled breaks.
 </p>
 
 <hr/>
