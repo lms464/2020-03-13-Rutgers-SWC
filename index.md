@@ -193,7 +193,7 @@ Display the contact email address set in the configuration file.
 </p>
 
 <p id="registration">
-<strong>Registration:</strong>  We kindly ask that interested participants <a href="https://forms.gle/z7kr2t2PcQbmmnci6">register</a> by March 6, 2020. Complimentary coffee, snacks, and lunch will be available for registered participants during the scheduled breaks.
+<strong>Registration:</strong>  We kindly ask that interested participants <a href="https://forms.gle/z7kr2t2PcQbmmnci6">register</a> by November 15.
 </p>
 
 <hr/>
